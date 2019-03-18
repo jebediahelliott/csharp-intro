@@ -1,0 +1,11 @@
+/Users/jeb/dev/code/labs/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/jeb/dev/code/labs/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/jeb/dev/code/labs/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/jeb/dev/code/labs/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/jeb/dev/code/labs/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/jeb/dev/code/labs/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
